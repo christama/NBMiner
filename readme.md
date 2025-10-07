@@ -1,6 +1,6 @@
 ![](/logo.png)
 
-# NBMiner
+# NBMiner 
 
 GPU Miner for `ETH`, `RVN`, `BEAM`, `CFX`, `ZIL`, `ERGO`, `AE`
 
